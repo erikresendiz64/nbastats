@@ -1,4 +1,4 @@
-package requests;
+package com.rdsz.test;
 
 public class Main {
 
